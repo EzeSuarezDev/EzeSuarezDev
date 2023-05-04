@@ -8,13 +8,16 @@ Soy persona una tranquilamente confiado, naturalmente curioso y trabajo perpetua
 ## 🌱 Actualmente estoy estudiando Ingenieria en sistemas de información (UTN)
 ## 👀 Estoy intereasado en Inteligencia artificial
 
+
 ```Js
 cons ezeDev = {
   pronouns: "he" | "him",
   code: [html, css, javascript, python],
   tools:[react, tailwind, django, mysql, pycharm, git]
 }
-´´´
-- 📫 Como Contactarme
+```
+
+📫 Como Contactarme
 - [linkedin] (https://www.linkedin.com/in/ezequiel-suarez-46166b23a/)
 - [Slack] (https://app.slack.com/client/T03UTHFCGLF/C03V55LJ7HT) 
+
