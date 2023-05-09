@@ -10,6 +10,9 @@ Soy persona una tranquilamente confiado, naturalmente curioso y trabajo perpetua
 ```Js
 cons ezeDev = {
   pronouns: "he" | "him",
+  diseño [UX,UI, Web]
+  tools: [webflow, happyhues]
+  
   front-end [html, css, javascript, git]
   tools:[visual studio code, tailwind, terminal, github]
   
