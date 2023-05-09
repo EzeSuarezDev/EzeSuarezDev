@@ -19,6 +19,7 @@ cons ezeDev = {
 ```
 
 📫 Como Contactarme
+- [Gmail] (ezequelsuarez.dev@gmail.com)
 - [linkedin] (https://www.linkedin.com/in/ezequiel-suarez-46166b23a/)
 - [Slack] (https://app.slack.com/client/T03UTHFCGLF/C03V55LJ7HT) 
 
