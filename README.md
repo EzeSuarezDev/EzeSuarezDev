@@ -1,4 +1,4 @@
-### 👋 Hola, Soy EzeDev
+### 👋 Hola, Soy Ezequiel Suarez
 <p>
 Actualmente estoy estudiando Ingenieria en sistemas de información (UTN).
 Hace 2 años comencé mi viaje como desarrollador Web. He realizado proyectos por mi cuenta, tambien realice trabajos de manera independiente.
