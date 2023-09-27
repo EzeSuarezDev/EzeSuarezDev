@@ -5,6 +5,7 @@ Hace 2 años comencé mi viaje como desarrollador Web. He realizado proyectos po
 Me gusta trabajar en equipo, aportar ideas
 Soy persona una tranquilamente confiado, curioso y trabajo perpetuamente para aprender y mejorar mis habilidades de desarrollador web.
 Un problema de diseño a la vez.
+  
 Comencé una especialidad en España, de inteligencia artificial (Machine learning y Deep learning) con python.
 </p>
 
